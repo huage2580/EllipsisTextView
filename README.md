@@ -1,6 +1,6 @@
 ## textView 改造成可以缩略展开的demo
 
-![view]()
+![view](https://github.com/huage2580/EllipsisTextView/blob/master/screenshot.png)
 
 原理解析
 
